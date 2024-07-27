@@ -1,2 +1,4 @@
-# odin-recipes
-This is a website for recipes. From the Odin Project - Foundations.
+# Pasta Recipes
+This is a website for my favourite pasta recipes.
+
+From the Odin Project - Foundations.
